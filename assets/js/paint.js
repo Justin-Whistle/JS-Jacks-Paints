@@ -1,3 +1,5 @@
+//Confused on what we're suppose to do. The website alreay does what it is asking//
+
 function configureListeners() {
     var images = document.getElementsByTagName('img');    
 
